@@ -1,4 +1,5 @@
-# Advanced AI Expert Maker
+# DualForce
+# Advanced Domain Specific AI Expert Maker
 
 ## Overview
 Advanced AI Expert Maker is a personalized AI system that creates domain-specific AI experts based on user-provided documents. Built with a robust backend in **Spring Boot**, **MongoDB**, and **Google Cloud Platform (GCP)**, it leverages **Vertex AI Embedding API** and **Gemini API** to generate highly accurate AI models with minimal hallucinations. The frontend is developed in **Flutter (MVVM + Provider)** for seamless expert creation and real-time interactions.
